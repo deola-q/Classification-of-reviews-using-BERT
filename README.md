@@ -1,2 +1,4 @@
 # Classification of reviews using BERT
-## Fine-tuning предобученной модели BERT (полный цикл обучения)
+- EDA <p>
+- Препроцессинг данных <p>
+- Fine-tuning предобученной модели BERT (полный цикл обучения)<p>
